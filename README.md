@@ -1,2 +1,4 @@
 # hello-world
-just the test
+Hi, 
+I like c++ and python.
+I am a coder on the road.
